@@ -28,4 +28,10 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
+
+<a href="https://github.com/Kuldip4135">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuldip4135&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldip4135&theme=buefy&layout=compact" />
+</a>
+
 <br/>
